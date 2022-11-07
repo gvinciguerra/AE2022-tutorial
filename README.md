@@ -1,6 +1,6 @@
-# AE2021 Tutorial
+# AE2022 Tutorial
 
-This repository, made for the students of the [Algorithm Engineering course](http://didawiki.di.unipi.it/doku.php/magistraleinformaticanetworking/ae/ae2021/start) at the University of Pisa, contains code and instructions to set up an environment to experiment with the [Succinct Data Structure Library](https://github.com/simongog/sdsl-lite) (sdsl).
+This repository, made for the students of the [Algorithm Engineering course](http://didawiki.di.unipi.it/doku.php/magistraleinformaticanetworking/ae/ae2022/start) at the University of Pisa, contains code and instructions to set up an environment to experiment with the [Succinct Data Structure Library](https://github.com/simongog/sdsl-lite) (sdsl).
 
 ## Prerequisites
 
